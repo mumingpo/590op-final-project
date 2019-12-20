@@ -1,0 +1,1 @@
+data can be obtained by downloading the movielens 100k dataset and copying the u.data file from the unzipped directory to here.

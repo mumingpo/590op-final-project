@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data for analysis (to avoid taking movielens data into a public repository
+data/u.data
